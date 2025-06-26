@@ -1,0 +1,1 @@
+# Sistem ini bekerja dengan mendeteksi suhu di sekitar dengan menggunakan DHT22 dan juga sensor MQ2 untuk mendeteksi asap. Ketika kedua treshold pada kedua sensor tersebut meelebihi batas, maka buzzer akan menyala dan berbunyi
